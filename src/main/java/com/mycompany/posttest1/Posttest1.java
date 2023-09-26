@@ -1,13 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package com.mycompany.posttest1;
-
-/**
- *
- * @author muthm
- */
 
 import java.util.ArrayList;
 
